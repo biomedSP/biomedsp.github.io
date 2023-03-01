@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {% for publication in page.publications %}
+        <div class="publication">
+            <h3><a href="{{publication.url}}">{{publication.title}}</a></h3>
+            <p class="authors">{{publication.authors}}</p>
+            <p class="journal">{{publication.journal}}</p>
+            <p class="description">{{publication.description}}</p>
+        </div>
+        {% endfor %}
+  </div>
+</article>
