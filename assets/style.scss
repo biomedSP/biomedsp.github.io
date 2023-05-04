@@ -1188,6 +1188,12 @@ Modules - reusable parts of our design
       padding: 0px;
       margin: 0px;
       text-align: left;
+
+      i {
+        width: 25px;
+        height: 25px;
+        background-size: contain;
+      }
     }
 
     p {

@@ -32,7 +32,12 @@ layout: default
                 <p>{{ person.position }}</p>
             </div>
             <div class="content">
-                <h3>{{person.name}}</h3>
+                <h3>
+                    {{person.name}}
+                    {% if person.email %}<a href="mailto:{{ person.email }}"><i class="svg-icon email"></i></a>{% endif %}
+                    {% if person.linkedin %}<a href="https://www.linkedin.com/in/{{ person.linkedin }}" target="_blank"><i class="svg-icon linkedin"></i></a>{% endif %}
+                    {% if person.twitter %}<a href="https://www.twitter.com/{{ person.twitter }}" target="_blank"><i class="svg-icon twitter"></i></a>{% endif %}
+                </h3>
                 <p>{{person.description}}</p>
             </div>
         </div>
