@@ -42,6 +42,7 @@ people:
       position: PhD Student
       description: Avalon Campbell-Cousins is a PhD student in the Department of Engineering at the University of Edinburgh. His research focuses on how graph and network theory can be harnessed to analyze functional and structural MRI images, with the aim to develop graph measures sensitive to diseases such as Alzheimer’s.
       email: avalon.campbell-cousins@ed.ac.uk
+      linkedin: avalon-campbell-cousins-48457319b
     - name: Iris Soare-Nguyen
       image: /images/people/iris2.jpg
       position: PhD Student
