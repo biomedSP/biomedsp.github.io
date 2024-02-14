@@ -26,9 +26,9 @@ people:
       image: /images/people/evangelos.jpg
       position: Alumni
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
-    - name: Noramon Dron
+    - name: Dr Noramon Dron
       image: /images/people/generic.png
-      position: PhD Student
+      position: Alumni
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
     - name: Melissa Fasol
       image: /images/people/generic.png
