@@ -21,6 +21,7 @@ people:
       image: /images/people/generic.png
       position: Postdoc
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      email: john.fabila@ed.ac.uk
     - name: Dr Evangelos Kafantaris
       image: /images/people/evangelos.jpg
       position: Alumni
@@ -35,16 +36,18 @@ people:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
       twitter: melissafasol
       linkedin: melissa-fasol-200786173
+      email: s1660428@sms.ed.ac.uk
     - name: Avalon Campbell-Cousin
       image: /images/people/avalon.png
       position: PhD Student
       description: Avalon Campbell-Cousins is a PhD student in the Department of Engineering at the University of Edinburgh. His research focuses on how graph and network theory can be harnessed to analyze functional and structural MRI images, with the aim to develop graph measures sensitive to diseases such as Alzheimer’s.
+      email: avalon.campbell-cousins@ed.ac.uk
     - name: Iris Soare-Nguyen
       image: /images/people/iris2.jpg
       position: PhD Student
       description: Iris is a PhD student with background in Mechatronic Engineering and Control Theory. Her work consists in simulating network control using epileptic EEG dynamic connectivity with the purpose of steering connectivity away from the ictal state. 
       email: i.l.soare@sms.ed.ac.uk 
-      linkedin: iris-lucia-soare-engineering/
+      linkedin: iris-lucia-soare-engineering
       twitter: LucyIrisS
     - name: Hollan Haule
       image: /images/people/generic.png
@@ -52,10 +55,12 @@ people:
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
       twitter: hollanhaule
       linkedin: hollanhaule
+      email: s1607398@ed.ac.uk
     - name: Tom Denker
       image: /images/people/generic.png
       position: PhD Student
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      email: t.d.denker@sms.ed.ac.uk
     - name: Bartłomiej Chybowski
       image: /images/people/bart.jpg
       position: PhD Student
@@ -67,6 +72,7 @@ people:
       image: /images/people/generic.png
       position: PhD Student
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      email: b.zhang-57@sms.ed.ac.uk
 
 
 ---
