@@ -33,8 +33,10 @@ people:
       image: /images/people/generic.png
       position: PhD Student
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      twitter: melissafasol
+      linkedin: melissa-fasol-200786173
     - name: Avalon Campbell-Cousin
-      image: /images/people/generic.png
+      image: /images/people/avalon.png
       position: PhD Student
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
     - name: Iris Soare-Nguyen
@@ -43,6 +45,13 @@ people:
       description: Iris is a PhD student with background in Mechatronic Engineering and Control Theory. Her work consists in simulating network control using epileptic EEG dynamic connectivity with the purpose of steering connectivity away from the ictal state. 
       email: i.l.soare@sms.ed.ac.uk 
       linkedin: iris-lucia-soare-engineering/
+      twitter: LucyIrisS
+    - name: Hollan Haule
+      image: /images/people/generic.png
+      position: PhD Student
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      twitter: hollanhaule
+      linkedin: hollanhaule
     - name: Tom Denker
       image: /images/people/generic.png
       position: PhD Student
@@ -54,4 +63,10 @@ people:
       email: b.s.chybowski@sms.ed.ac.uk 
       linkedin: bartlomiejchybowski/
       twitter: bartchybowski
+    - name: Boyi Zhang
+      image: /images/people/generic.png
+      position: PhD Student
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+
+
 ---
