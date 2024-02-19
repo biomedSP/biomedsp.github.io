@@ -11,7 +11,7 @@ layout: default
         <div class="publication">
             <h3><a href="{{publication.url}}">{{publication.title}}</a></h3>
             <p class="authors">{{publication.authors}}</p>
-            <p class="journal">{{publication.journal | replace: "amp;", "&amp;"}}</p>
+            <p class="journal">{{publication.journal}}</p>
             <p class="description">{{publication.description}}</p>
         </div>
         {% endfor %}
