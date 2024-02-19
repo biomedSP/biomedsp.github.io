@@ -25,11 +25,11 @@ people:
     - name: Dr Evangelos Kafantaris
       image: /images/people/evangelos.jpg
       position: Alumni
-      description: -
+      description:
     - name: Dr Noramon Dron
       image: /images/people/generic.png
       position: Alumni
-      description: -
+      description:
     - name: Avalon Campbell-Cousin
       image: /images/people/avalon.png
       position: PhD Student
@@ -53,7 +53,7 @@ people:
     - name: Tom Denker
       image: /images/people/generic.png
       position: PhD Student
-      description: -
+      description:
       email: t.d.denker@sms.ed.ac.uk
     - name: Bartłomiej Chybowski
       image: /images/people/bart.jpg
@@ -65,6 +65,6 @@ people:
     - name: Boyi Zhang
       image: /images/people/generic.png
       position: PhD Student
-      description: -
+      description:
       email: b.zhang-57@sms.ed.ac.uk
 ---
