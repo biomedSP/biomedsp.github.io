@@ -17,26 +17,19 @@ people:
       twitter: ShimaAbdullate1
       email: sabdull2@exseed.ed.ac.uk
       linkedin: shima-abdullateef-913375106
-    - name: Dr John Stewart Fabila Carrasco
+    - name: Dr John Stewart Fabila-Carrasco
       image: /images/people/generic.png
       position: Postdoc
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      description: John is currently a Postdoctoral Researcher at the School of Informatics. His research interests lie in spectral graph theory, specifically focusing on the discrete magnetic Laplacian and graph signal processing applications.
       email: john.fabila@ed.ac.uk
     - name: Dr Evangelos Kafantaris
       image: /images/people/evangelos.jpg
       position: Alumni
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      description: -
     - name: Dr Noramon Dron
       image: /images/people/generic.png
       position: Alumni
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
-    - name: Melissa Fasol
-      image: /images/people/generic.png
-      position: PhD Student
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
-      twitter: melissafasol
-      linkedin: melissa-fasol-200786173
-      email: s1660428@sms.ed.ac.uk
+      description: -
     - name: Avalon Campbell-Cousin
       image: /images/people/avalon.png
       position: PhD Student
@@ -51,16 +44,16 @@ people:
       linkedin: iris-lucia-soare-engineering
       twitter: LucyIrisS
     - name: Hollan Haule
-      image: /images/people/generic.png
+      image: /images/people/hollan.jpg
       position: PhD Student
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      description: Hollan Haule is a PhD student at The University of Edinburgh. His research focuses on developing machine learning techniques for analysis of ICU patient physiological time series data.
       twitter: hollanhaule
       linkedin: hollanhaule
       email: s1607398@ed.ac.uk
     - name: Tom Denker
       image: /images/people/generic.png
       position: PhD Student
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      description: -
       email: t.d.denker@sms.ed.ac.uk
     - name: Bartłomiej Chybowski
       image: /images/people/bart.jpg
@@ -72,8 +65,6 @@ people:
     - name: Boyi Zhang
       image: /images/people/generic.png
       position: PhD Student
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nisl sed leo aliquet varius non varius enim. Maecenas sed diam tortor. Vivamus molestie est et rhoncus laoreet. Phasellus finibus tincidunt magna, sed tincidunt ante feugiat nec. Aenean eu felis vel nisi convallis dictum. Donec ut tellus quis dui gravida ullamcorper.
+      description: -
       email: b.zhang-57@sms.ed.ac.uk
-
-
 ---
