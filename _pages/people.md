@@ -63,8 +63,8 @@ people:
       linkedin: bartlomiejchybowski/
       twitter: bartchybowski
     - name: Boyi Zhang
-      image: /images/people/generic.png
+      image: /images/people/boyi.png
       position: PhD Student
-      description:
+      description: Boyi is a PhD student in Statistics. Her research focus on the combination of signal processing and network theory.
       email: b.zhang-57@sms.ed.ac.uk
 ---
