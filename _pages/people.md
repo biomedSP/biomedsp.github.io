@@ -27,9 +27,9 @@ people:
       position: Alumni
       description:
     - name: Dr Noramon Dron
-      image: /images/people/generic.png
+      image: /images/people/nora.png
       position: Alumni
-      description:
+      description: Noramon Dron, a PhD graduate in Engineering from the University of Edinburgh, is specializing in multimodal data fusion using tensor decomposition. Her research, particularly in the application of tensor decomposition to diverse biomedical contexts, with a specific focus on brain and psychological scores. Currently a lecturer in the Biomedical Engineering Department at Srinakharinwirot University, Thailand.
     - name: Avalon Campbell-Cousin
       image: /images/people/avalon.png
       position: PhD Student
