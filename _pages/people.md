@@ -18,7 +18,7 @@ people:
       email: sabdull2@exseed.ed.ac.uk
       linkedin: shima-abdullateef-913375106
     - name: Dr John Stewart Fabila-Carrasco
-      image: /images/people/generic.png
+      image: /images/people/john.jpg
       position: Postdoc
       description: John is currently a Postdoctoral Researcher at the School of Informatics. His research interests lie in spectral graph theory, specifically focusing on the discrete magnetic Laplacian and graph signal processing applications.
       email: john.fabila@ed.ac.uk
