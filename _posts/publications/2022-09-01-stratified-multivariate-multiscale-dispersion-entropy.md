@@ -1,0 +1,10 @@
+---
+layout: publication
+title:  Stratified Multivariate Multiscale Dispersion Entropy for Physiological Signal Analysis
+excerpt: Here, we introduce the framework of Stratified Entropy to prioritize each channels' dynamics based on their allocation to respective strata, leading to a richer description of the multi-channel time-series.
+doi: "https://doi.org/10.1109/TBME.2022.3207582"
+authors: Evangelos Kafantaris, Tsz-Yan Milly Lo, Javier Escudero
+journal: IEEE Transactions on Biomedical Engineering
+---
+
+Multivariate entropy quantification algorithms are becoming a prominent tool for the extraction of information from multi-channel physiological time-series. However, in the analysis of physiological signals from heterogeneous organ systems, certain channels may overshadow the patterns of others, resulting in information loss. Here, we introduce the framework of Stratified Entropy to prioritize each channels' dynamics based on their allocation to respective strata, leading to a richer description of the multi-channel time-series. As an implementation of the framework, three algorithmic variations of the Stratified Multivariate Multiscale Dispersion Entropy are introduced. These variations and the original algorithm are applied to synthetic time-series, waveform physiological time-series, and derivative physiological data. Based on the synthetic time-series experiments, the variations successfully prioritize channels following their strata allocation while maintaining the low computation time of the original algorithm. In experiments on waveform physiological time-series and derivative physiological data, increased discrimination capacity was noted for multiple strata allocations in the variations when benchmarked to the original algorithm. This suggests improved physiological state monitoring by the variations. Furthermore, our variations can be modified to utilize a priori knowledge for the stratification of channels. Thus, our research provides a novel approach for the extraction of previously inaccessible information from multi-channel time series acquired from heterogeneous systems.

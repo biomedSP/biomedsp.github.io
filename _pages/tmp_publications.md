@@ -1,7 +1,7 @@
 ---
 layout: publications
 title: Publications
-permalink: /publications/
+permalink: /tmp_publications/
 publications:
   - title: Dispersion entropy for graph signals
     url: "https://doi.org/10.1016/j.chaos.2023.113977"

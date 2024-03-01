@@ -1,15 +1,18 @@
 ---
 layout: default
-title: Outreach
+title: Publications
 ---
+<p class="author_title post">
+    For a complete list of publications, see <a href="https://scholar.google.com/citations?user=sIBtm3AAAAAJ&hl=en">google scholar</a>
+    <br> Recent relevant publications:
+</p>
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
-
         <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="post_date">{{ post.date | date: "%B %Y" }}</p>
         </div>
       </a>
       <div class="entry">
@@ -29,13 +32,14 @@ title: Outreach
       <span>&laquo; Prev</span>
     {% endif %}
 
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% for page_no in (1..paginator.total_pages) %}
+      {% if page_no == paginator.page %}
+        <span class="webjeda">{{ page_no }}</span>
+      {% elsif page_no == 1 %}
+        <a href="{{ '/publications' | prepend: site.url }}">{{ page_no }}</a>
       {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+        {% assign current_page = 'page' | append: paginator.page %}
+        <a href="{{ site.paginate_path | prepend: page.url | prepend: site.baseurl | replace: current_page, '' | replace: '//', '/' | replace: ':num', page_no | replace: '//', '/'  }}">{{ page_no }}</a>
       {% endif %}
     {% endfor %}
 

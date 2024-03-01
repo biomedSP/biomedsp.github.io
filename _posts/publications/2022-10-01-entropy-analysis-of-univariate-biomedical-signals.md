@@ -1,0 +1,9 @@
+---
+layout: publication
+title:  "CHAPTER 9: ENTROPY ANALYSIS OF UNIVARIATE BIOMEDICAL SIGNALS: REVIEW AND COMPARISON OF METHODS"
+excerpt: Nonlinear techniques have found an increasing interest in the dynamical analysis of various kinds of systems. Among these techniques, entropy-based metrics have emerged as practical alternatives to classical techniques due to their wide applicability in different scenarios, especially to short and noisy processes.
+doi: "https://doi.org/10.1142/9789811259401_0009"
+authors: Hamed Azami, Luca Faes, Javier Escudero, Anne Humeau-Heurtier, Luiz E.V. Silva
+journal: Frontiers in Entropy Across the Disciplines
+---
+Nonlinear techniques have found an increasing interest in the dynamical analysis of various kinds of systems. Among these techniques, entropy-based metrics have emerged as practical alternatives to classical techniques due to their wide applicability in different scenarios, especially to short and noisy processes. Issued from information theory, entropy approaches are of great interest to evaluate the degree of irregularity and complexity of physical, physiological, social, and econometric systems. Based on Shannon entropy and conditional entropy (CE), various techniques have been proposed; among them, approximate entropy, sample entropy, fuzzy entropy, distribution entropy, permutation entropy, and dispersion entropy are probably the most well known. After a presentation of the basic information-theoretic functionals, these measures are detailed, together with recent proposals inspired by nearest neighbors and parametric approaches. Moreover, the role of dimension, data length, and parameters in using these measures is described. Their computational efficiency is also commented. Finally, the limitations and advantages of the above-mentioned entropy measures for practical use are discussed.

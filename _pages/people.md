@@ -19,16 +19,16 @@ people:
       linkedin: shima-abdullateef-913375106
     - name: Dr John Stewart Fabila-Carrasco
       image: /images/people/john.jpg
-      position: Postdoc
+      position: recent_member
       description: John is currently a Postdoctoral Researcher at the School of Informatics. His research interests lie in spectral graph theory, specifically focusing on the discrete magnetic Laplacian and graph signal processing applications.
       email: john.fabila@ed.ac.uk
     - name: Dr Evangelos Kafantaris
       image: /images/people/evangelos.jpg
-      position: Alumni
+      position: recent_member
       description:
     - name: Dr Noramon Dron
       image: /images/people/nora.png
-      position: Alumni
+      position: recent_member
       description: Noramon Dron, a PhD graduate in Engineering from the University of Edinburgh, is specializing in multimodal data fusion using tensor decomposition. Her research, particularly in the application of tensor decomposition to diverse biomedical contexts, with a specific focus on brain and psychological scores. Currently a lecturer in the Biomedical Engineering Department at Srinakharinwirot University, Thailand.
     - name: Avalon Campbell-Cousin
       image: /images/people/avalon.png
@@ -67,4 +67,9 @@ people:
       position: PhD Student
       description: Boyi is a PhD student in Statistics. Her research focus on the combination of signal processing and network theory.
       email: b.zhang-57@sms.ed.ac.uk
+    - name: Dr Keith Smith
+      image: /images/people/generic.png
+      position: previous_member
+      description: After finishing PhD worked as HDR UK research fellow. Currently working as Lecturer at  Computer and Information Sciences, University of Strathclyde.
+      email: keith.m.smith@strath.ac.uk
 ---

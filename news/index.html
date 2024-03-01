@@ -1,0 +1,50 @@
+---
+layout: default
+title: News
+---
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h1>{{ post.title }}</h1>
+
+        <div>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        </div>
+      </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+
+  <!-- pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page_no in (1..paginator.total_pages) %}
+      {% if page_no == paginator.page %}
+        <span class="webjeda">{{ page_no }}</span>
+      {% elsif page_no == 1 %}
+        <a href="{{ '/news' | prepend: site.url }}">{{ page_no }}</a>
+      {% else %}
+        {% assign current_page = 'page' | append: paginator.page %}
+        <a href="{{ site.paginate_path | prepend: page.url | prepend: site.baseurl | replace: current_page, '' | replace: '//', '/' | replace: ':num', page_no | replace: '//', '/'  }}">{{ page_no }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>

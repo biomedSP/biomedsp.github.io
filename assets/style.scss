@@ -62,7 +62,12 @@ h1 {
 
 h2 {
   font-size: 24px;
+
+  .people {
+    margin: 0px 50px;
+  }
 }
+
 
 @media (min-width: 769px) {
   .post h2::before, .post h2::after {
@@ -354,7 +359,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      //color: $blue;
     }
   }
 }
@@ -362,6 +367,10 @@ nav {
 //
 // .main
 //
+p.post {
+  padding-bottom: 2em;
+  border-bottom: 1px solid $lightGray;
+}
 
 .posts > .post {
   padding-bottom: 2em;
