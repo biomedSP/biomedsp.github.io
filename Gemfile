@@ -14,5 +14,5 @@ gem "jekyll-seo-tag", "~> 2.8"
 
 gem "jekyll-paginate", "~> 1.1"
 
-gem "jekyll-paginate-multiple", "~> 0.1.0 "
+# gem "jekyll-paginate-multiple", "~> 0.1.0 "
 
