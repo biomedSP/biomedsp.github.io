@@ -25,7 +25,7 @@ people:
     - name: Dr Evangelos Kafantaris
       image: /images/people/evangelos.jpg
       position: recent_member
-      description:
+      description: Evangelos has a background in Electronics and Electrical Engineering and a PhD in Entropy Quantification Algorithms. His current research focuses on the analysis of systems and the design and deployment of machine learning algorithms.
     - name: Dr Noramon Dron
       image: /images/people/nora.png
       position: recent_member
@@ -72,4 +72,30 @@ people:
       position: previous_member
       description: After finishing PhD worked as HDR UK research fellow. Currently working as Lecturer at  Computer and Information Sciences, University of Strathclyde.
       email: keith.m.smith@strath.ac.uk
+    - name: Om Roy
+      image: /images/people/om.jpeg
+      position: Research Assistant
+      description: Om Roy is a PhD student at the University of Strathclyde and a research assistant at the University of Edinburgh. He's currently working on the Permutation Entropy for Graph Signals project funded by the Leverhulme Trust. Om's research involves creating mathematical models to analyze complex systems, particularly using network science techniques to study dynamic functional connectivity in EEG signals.
+      email: o.roy.2022@uni.strath.ac.uk
+    - name: Dr Ahmed Ebied
+      image: /images/people/generic.png
+      position: previous_member
+      description: > 
+        Currently working as Head of Production at Agouza Prosthetics & Orthotic center and as Part-time lecturer at New Cairo Technological University.
+      email: Ahmed.m.ebied@gmail.com
+      linkedin: ahmed-ebied-4573345b
+      twitter: a_ebied
+    - name: Dr Eli Kinney-Lang
+      image: /images/people/generic.png
+      position: previous_member
+      description: >
+        Currently working as Research Assistant Professor & Lead Scientist, BCI4Kids, Department of Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, AB, Canada; Founder & CEO, BCI Games, Calgary, AB, Canada; Co-founder, Possibility Neurotechnologies, Calgary, AB, Canada.
+      email: eli.kinneylang@ucalgary.ca
+      linkedin: eli-kinney-lang
+    - name: Dr Hamed Azami
+      image: /images/people/generic.png
+      position: previous_member
+      description: Currently working as Scientific Associate at CAMH, University of Toronto, ON, CA.
+      email: hmd.azami@gmail.com
+      linkedin: hamed-azami-b7279a36/      
 ---
