@@ -62,9 +62,16 @@ people:
       email: b.s.chybowski@sms.ed.ac.uk 
       linkedin: bartlomiejchybowski/
       twitter: bartchybowski
-    - name: Boyi Zhang
-      image: /images/people/boyi.png
+    - name: Brian O'Donovan
+      image: /images/people/brian.jpg
       position: PhD Student
+      description: Brian is a PhD student in the Precision Medicine DTP at the University of Edinburgh. His research focuses on the application of machine learning techniques to physiological time series data from paediatric intensive care units. 
+      email: b.o'donovan@sms.ed.ac.uk
+      linkedin: brian-odonovan/
+      twitter: Brian_O_Donovan
+    - name: Dr Boyi Zhang
+      image: /images/people/boyi.png
+      position: previous_member
       description: Boyi is a PhD student in Statistics. Her research focus on the combination of signal processing and network theory.
       email: b.zhang-57@sms.ed.ac.uk
     - name: Dr Keith Smith
@@ -74,7 +81,7 @@ people:
       email: keith.m.smith@strath.ac.uk
     - name: Om Roy
       image: /images/people/om.jpeg
-      position: Research Assistant
+      position: previous_member
       description: Om Roy is a PhD student at the University of Strathclyde and a research assistant at the University of Edinburgh. He's currently working on the Permutation Entropy for Graph Signals project funded by the Leverhulme Trust. Om's research involves creating mathematical models to analyze complex systems, particularly using network science techniques to study dynamic functional connectivity in EEG signals.
       email: o.roy.2022@uni.strath.ac.uk
     - name: Dr Ahmed Ebied
