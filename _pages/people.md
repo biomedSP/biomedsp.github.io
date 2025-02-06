@@ -53,7 +53,7 @@ people:
     - name: Tom Denker
       image: /images/people/generic.png
       position: PhD Student
-      description:
+      description: Tom is a PhD student with a background in Physics, specializing in the automated, data-driven detection of ischemic cardiovascular pathologies through biosignal monitoring in intensive care settings.
       email: t.d.denker@sms.ed.ac.uk
     - name: Bartłomiej Chybowski
       image: /images/people/bart.jpg
