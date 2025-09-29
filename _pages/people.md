@@ -12,7 +12,7 @@ people:
       linkedin: jescuder
     - name: Dr Shima Abdullateef
       image: /images/people/shima.jpg
-      position: Postdoc
+      position: recent_member
       description: Shima is a postdoctoral research fellow based at Usher institute. Her research is developing an automated seizure detection method with minimal EEG montage. 
       twitter: ShimaAbdullate1
       email: sabdull2@exseed.ed.ac.uk
@@ -52,7 +52,7 @@ people:
       email: s1607398@ed.ac.uk
     - name: Tom Denker
       image: /images/people/generic.png
-      position: PhD Student
+      position: recent_member
       description: Tom is a PhD student with a background in Physics, specializing in the automated, data-driven detection of ischemic cardiovascular pathologies through biosignal monitoring in intensive care settings.
       email: t.d.denker@sms.ed.ac.uk
     - name: Bartłomiej Chybowski
@@ -104,5 +104,19 @@ people:
       position: previous_member
       description: Currently working as Scientific Associate at CAMH, University of Toronto, ON, CA.
       email: hmd.azami@gmail.com
-      linkedin: hamed-azami-b7279a36/      
+      linkedin: hamed-azami-b7279a36/
+    - name:  Maggie Lei
+      image: /images/people/maggie.jpg
+      position: PhD Student
+      description: >
+        Maggie is a PhD student with background in signal processing and communications. Her research focuses on the topic 'Nonlinear algorithms for the analysis of graph signals with applications to brain activity' with EEG signals, and higher-order network signal processing in particular.
+      email: M.S.Lei@sms.ed.ac.uk
+      linkedin: maggie-lei-0abb96224/
+    - name: Melody Noella Sequeira
+      image: /images/people/melody.jpg
+      position: PhD Student
+      description: >
+        Melody is a PhD student in the Wellcome Trust Translational Neuroscience programme at the University of Edinburgh. Her research focuses on understanding non-invasive modalities, particularly retinal imaging and EEG, to investigate links between eye and brain changes in Alzheimer's Disease.
+      email: Melody is a PhD student in the Wellcome Trust Translational Neuroscience programme at the University of Edinburgh. Her research focuses on understanding non-invasive modalities, particularly retinal imaging and EEG, to investigate links between eye and brain changes in Alzheimer's Disease.
+      linkedin: melody-noella-sequeira-832493196/
 ---
