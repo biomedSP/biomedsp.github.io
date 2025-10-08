@@ -117,6 +117,13 @@ people:
       position: PhD Student
       description: >
         Melody is a PhD student in the Wellcome Trust Translational Neuroscience programme at the University of Edinburgh. Her research focuses on understanding non-invasive modalities, particularly retinal imaging and EEG, to investigate links between eye and brain changes in Alzheimer's Disease.
-      email: Melody is a PhD student in the Wellcome Trust Translational Neuroscience programme at the University of Edinburgh. Her research focuses on understanding non-invasive modalities, particularly retinal imaging and EEG, to investigate links between eye and brain changes in Alzheimer's Disease.
+      email: M.N.Sequeira@sms.ed.ac.uk
       linkedin: melody-noella-sequeira-832493196/
+    - name: Grant Kirkwood
+      image: /images/people/grant.png
+      position: PhD Student
+      description: >
+        I am a PhD student in the Centre for Clinical Brain Sciences and UK Dementia Research Institute, funded by the Engineering and Physical Sciences Research Council (EPSRC). My thesis title for my PhD is 'Analysis and quantification of the waste clearance in the human brain and its role in neurodegeneration, vascular disease and neuroinflammation'.
+      email: Grant.Kirkwood@ed.ac.uk
+      linkedin: grant-kirkwood-b1126a171/
 ---
